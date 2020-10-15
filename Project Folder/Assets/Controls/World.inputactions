@@ -1,0 +1,33 @@
+{
+    "name": "World",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "a1635628-e568-4d4d-b492-0e76a8bc3c7e",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "PassThrough",
+                    "id": "970a74da-6134-40f0-9130-8a0218ca6607",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "e82ac430-168c-49d2-a3da-cc8c202f3928",
+                    "path": "<Pointer>/delta",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
