@@ -21,7 +21,7 @@ ScriptsOnlyBuild:
     - UnityEditor.TestTools.TestRunner.TestListCacheData
     - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
   sceneClasses:
-    Assets/Levels/TestLevel.unity:
+    Assets/Scenes/TestLevel.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -51,11 +51,11 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 12044}
+      Script: {instanceID: 11340}
     - Class: 114
-      Script: {instanceID: 12642}
+      Script: {instanceID: 12046}
     - Class: 114
-      Script: {instanceID: 13936}
+      Script: {instanceID: 12644}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 135
@@ -113,6 +113,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.InputSystem.dll
     namespaceName: UnityEngine.InputSystem.Editor
     className: PlayerInputManagerEditor
+  - hash:
+      serializedVersion: 2
+      Hash: f170de68ad3d4d34d827a28d868569cb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LevelRotator
   - hash:
       serializedVersion: 2
       Hash: a5781dc71a671b1ad2b38de19f24b71f
@@ -653,13 +659,7 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: f170de68ad3d4d34d827a28d868569cb
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: LevelRotator
   platform: 19
   scenePathNames:
-  - Assets/Levels/TestLevel.unity
+  - Assets/Scenes/TestLevel.unity
   playerPath: C:/Users/razin/Documents/GitHub/ITGP-FinalProject/Project Folder/Builds/FinalProject.exe

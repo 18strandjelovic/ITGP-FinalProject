@@ -1,2 +1,6 @@
-Project Folder/Library/PackageCache/**
+Project Folder/Library/PackageCache/*
 Project Folder/Library/ArtifactDB
+Project Folder/Library/Artifacts/
+Project Folder/Library/ScriptAssemblies/*
+Project Folder/Builds/
+Project Folder/Builds/FinalProject_Data/*
