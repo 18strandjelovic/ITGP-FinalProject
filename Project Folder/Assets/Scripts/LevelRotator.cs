@@ -14,6 +14,8 @@ public class LevelRotator : MonoBehaviour {
 
     // Start is called before the first frame update
     void Start() {
+        Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
         k = Keyboard.current;               // gets current keyboard
         yRotation = 0;                      // initializes yRotation to 0
     }
