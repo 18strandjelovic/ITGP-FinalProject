@@ -36,6 +36,81 @@ ScriptsOnlyBuild:
     - UnityEditor.TestTools.TestRunner.TestListCacheData
     - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
   sceneClasses:
+    Assets/Scenes/Level1.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 54
+      Script: {instanceID: 0}
+    - Class: 64
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11360}
+    - Class: 114
+      Script: {instanceID: 11588}
+    - Class: 114
+      Script: {instanceID: 11614}
+    - Class: 114
+      Script: {instanceID: 12144}
+    - Class: 114
+      Script: {instanceID: 12376}
+    - Class: 114
+      Script: {instanceID: 12386}
+    - Class: 114
+      Script: {instanceID: 12500}
+    - Class: 114
+      Script: {instanceID: 12512}
+    - Class: 114
+      Script: {instanceID: 12708}
+    - Class: 114
+      Script: {instanceID: 12814}
+    - Class: 114
+      Script: {instanceID: 12836}
+    - Class: 114
+      Script: {instanceID: 13060}
+    - Class: 114
+      Script: {instanceID: 13638}
+    - Class: 114
+      Script: {instanceID: 13790}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 135
+      Script: {instanceID: 0}
+    - Class: 136
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
     Assets/Scenes/TestLevel.unity:
     - Class: 1
       Script: {instanceID: 0}
@@ -74,37 +149,39 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11364}
+      Script: {instanceID: 11360}
     - Class: 114
-      Script: {instanceID: 11592}
+      Script: {instanceID: 11588}
     - Class: 114
-      Script: {instanceID: 11618}
+      Script: {instanceID: 11614}
     - Class: 114
-      Script: {instanceID: 11830}
+      Script: {instanceID: 11826}
     - Class: 114
-      Script: {instanceID: 12148}
+      Script: {instanceID: 12144}
     - Class: 114
-      Script: {instanceID: 12380}
+      Script: {instanceID: 12376}
     - Class: 114
-      Script: {instanceID: 12390}
+      Script: {instanceID: 12386}
     - Class: 114
-      Script: {instanceID: 12504}
+      Script: {instanceID: 12500}
     - Class: 114
-      Script: {instanceID: 12516}
+      Script: {instanceID: 12512}
     - Class: 114
-      Script: {instanceID: 12712}
+      Script: {instanceID: 12708}
     - Class: 114
-      Script: {instanceID: 12818}
+      Script: {instanceID: 12814}
     - Class: 114
-      Script: {instanceID: 12840}
+      Script: {instanceID: 12836}
     - Class: 114
-      Script: {instanceID: 13064}
+      Script: {instanceID: 13060}
     - Class: 114
-      Script: {instanceID: 13336}
+      Script: {instanceID: 13332}
     - Class: 114
-      Script: {instanceID: 13642}
+      Script: {instanceID: 13406}
     - Class: 114
-      Script: {instanceID: 13794}
+      Script: {instanceID: 13638}
+    - Class: 114
+      Script: {instanceID: 13790}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 135
@@ -136,7 +213,7 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 54
       Script: {instanceID: 0}
-    - Class: 65
+    - Class: 64
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
@@ -145,21 +222,21 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11364}
+      Script: {instanceID: 11360}
     - Class: 114
-      Script: {instanceID: 12148}
+      Script: {instanceID: 12144}
     - Class: 114
-      Script: {instanceID: 12504}
+      Script: {instanceID: 12500}
     - Class: 114
-      Script: {instanceID: 12818}
+      Script: {instanceID: 12814}
     - Class: 114
-      Script: {instanceID: 12840}
+      Script: {instanceID: 12836}
     - Class: 114
-      Script: {instanceID: 13064}
+      Script: {instanceID: 13060}
     - Class: 114
-      Script: {instanceID: 13410}
+      Script: {instanceID: 13406}
     - Class: 114
-      Script: {instanceID: 13794}
+      Script: {instanceID: 13790}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 135
@@ -1053,6 +1130,7 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   platform: 19
   scenePathNames:
+  - Assets/Scenes/Level1.unity
   - Assets/Scenes/TestLevel.unity
   - Assets/Scenes/TestLevel2.unity
   playerPath: C:/Users/razin/Documents/GitHub/ITGP-FinalProject/Project Folder/Builds/FinalProject.exe
