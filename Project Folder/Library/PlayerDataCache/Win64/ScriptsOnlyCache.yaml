@@ -2,6 +2,7 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - LevelRotator
+    - checkpointController
     - colorCycle
     - fallManager
     - goalController
@@ -101,6 +102,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 13638}
     - Class: 114
       Script: {instanceID: 13790}
+    - Class: 114
+      Script: {instanceID: 38044}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 135
@@ -182,6 +185,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 13638}
     - Class: 114
       Script: {instanceID: 13790}
+    - Class: 114
+      Script: {instanceID: 38044}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 135
@@ -237,6 +242,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 13406}
     - Class: 114
       Script: {instanceID: 13790}
+    - Class: 114
+      Script: {instanceID: 38044}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 135
@@ -314,7 +321,7 @@ ScriptsOnlyBuild:
     className: PlayerInputManagerEditor
   - hash:
       serializedVersion: 2
-      Hash: 7bc305dfaf11a713c82e259c24df9cb6
+      Hash: 35456b96007bf99b061aa5ede1e820d3
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: LevelRotator
@@ -1128,6 +1135,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: e0f1eec03a435469583f4309db2e1899
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: checkpointController
   platform: 19
   scenePathNames:
   - Assets/Scenes/Level1.unity

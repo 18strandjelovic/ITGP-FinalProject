@@ -59,6 +59,7 @@
      <Compile Include="Assets\Scripts\LevelRotator.cs" />
      <Compile Include="Assets\Scripts\Services\sceneService.cs" />
      <Compile Include="Assets\Scripts\cameraController.cs" />
+     <Compile Include="Assets\Scripts\checkpointController.cs" />
      <Compile Include="Assets\Scripts\fallManager.cs" />
      <Compile Include="Assets\Scripts\goalController.cs" />
      <Compile Include="Assets\Scripts\gravityController.cs" />
