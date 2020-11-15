@@ -1,5 +1,18 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &9051119417989601038
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 852755214249341001}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 955c682c09e00264baab3c8314b3e99f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  durration: 5
 --- !u!1001 &4818315251462160632
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10,7 +23,7 @@ PrefabInstance:
     - target: {fileID: 5263441774659924145, guid: d63beee27fe1a854abee5bb94140540a,
         type: 3}
       propertyPath: m_Name
-      value: massPickup
+      value: massPickup Variant
       objectReference: {fileID: 0}
     - target: {fileID: 5263441774659924146, guid: d63beee27fe1a854abee5bb94140540a,
         type: 3}
@@ -69,3 +82,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d63beee27fe1a854abee5bb94140540a, type: 3}
+--- !u!1 &852755214249341001 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5263441774659924145, guid: d63beee27fe1a854abee5bb94140540a,
+    type: 3}
+  m_PrefabInstance: {fileID: 4818315251462160632}
+  m_PrefabAsset: {fileID: 0}
