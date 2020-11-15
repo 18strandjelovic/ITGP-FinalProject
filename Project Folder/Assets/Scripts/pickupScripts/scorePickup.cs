@@ -12,7 +12,7 @@ public class scorePickup : MonoBehaviour
     {
         if (other.gameObject.tag == "Player")          
         {
-            scoreCounter.addPoints(scoreValue);     // tells thescore manager to add scoreValue points
+            scoreCounter.addPoints(scoreValue);     // tells the score manager to add scoreValue points
             Destroy(gameObject);                    // removes pickup from play
         }
     }

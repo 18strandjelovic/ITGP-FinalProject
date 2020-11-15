@@ -15,12 +15,15 @@ public class LevelRotator : MonoBehaviour {
 
     // Start is called before the first frame update
     void Start() {
+        //locks cursor to the center of screne
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;
+
         k = Keyboard.current;               // gets current keyboard
     }
 
     void LateUpdate() {
+        // moved to late update to fix collision issues
         if (!testing)
             transform.Rotate(new Vector3(_xRotation, 0, _zRotation));
         //rotateY();
