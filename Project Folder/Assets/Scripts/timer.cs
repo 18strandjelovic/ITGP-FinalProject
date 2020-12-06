@@ -31,7 +31,7 @@ public class timer : MonoBehaviour
                 timerDown -= Time.deltaTime;
             if (timerDown < 0)
                 timerDown = 0;
-            timerText.text = timerDown.ToString();
+            timerText.text = timerDown.ToString("F2");
         }
         else
         {

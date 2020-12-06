@@ -44,11 +44,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c0e2971cbd35444bbd0566a379ebcd5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotationSensitivity: 0
-  rotationSpeed: 0
-  yRotation: 0
-  camera: {fileID: 0}
+  rotationSensitivity: 2
   testing: 0
+  xMultiplier: 1.25
+  zMultiplier: 1.5
 --- !u!114 &1742490442241959992
 MonoBehaviour:
   m_ObjectHideFlags: 0

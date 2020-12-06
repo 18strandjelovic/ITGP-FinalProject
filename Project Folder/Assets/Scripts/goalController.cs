@@ -19,6 +19,7 @@ public class goalController : MonoBehaviour {
             if (score.getScore() > PlayerPrefs.GetInt(score.getSceneName(), 0))
                 PlayerPrefs.SetInt(score.getSceneName(), score.getScore());
 
+            // need to set this to go to main menu if there is no next level
             sceneService.LoadNextScene();       // load next level
         }
     }
