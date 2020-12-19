@@ -2956,9 +2956,13 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: 'Move your mouse to rotate the level
 
+    While running the game, press
+    esc to take control of the mouse
 
-    Let gravity take you marble
-    where you want to go'
+    Let gravity take you marble where you want
+    to go
+
+'
 --- !u!222 &1799063536
 CanvasRenderer:
   m_ObjectHideFlags: 0
