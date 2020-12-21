@@ -1698,4 +1698,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/level5.unity
   - Assets/Scenes/level6.unity
   - Assets/Scenes/tranistion.unity
-  playerPath: C:/Users/Stefan/Documents/GitHub/ITGP-FinalProject/Project Folder/Builds/FinalProject.exe
+  playerPath: C:/Users/Stefan/Documents/GitHub/ITGP-FinalProject/Built Game/FinalProject.exe
