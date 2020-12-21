@@ -1,0 +1,8 @@
+Due to unforseen version control issues, the built version of the game has had to be moved to "ITGP-FinalProject\Built Game"
+
+we had found out that if the game was buit in a folder inside the project folder, it would inconsistently only work for the person who built it and only found out about the issue after 
+turning in the project and report.
+
+On a side note, if there is any problems viewing the project when it is pulled from either SVN or github, a reinport of all assests should resolve the issue.
+
+We appologize for any inconvience
