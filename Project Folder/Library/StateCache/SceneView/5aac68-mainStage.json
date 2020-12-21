@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":804.880859375,"y":314.39141845703127,"z":127.0250015258789},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":588.5328369140625,"orthographic":true}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":1127.28369140625,"y":252.84783935546876,"z":-64.47830963134766},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":759.9240112304688,"orthographic":true}
+>>>>>>> iteration3-stefanMap
